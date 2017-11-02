@@ -19,3 +19,7 @@ A showreel is essential. Captions are very important in these showreels. Pick co
 
 What games studios look for in a CV:
 A clean introduction with a clear vision, is the first step. Then list all the technical skills starting with the ones with most proficiency. This should be followed by all the relevant positions held within the games industry. Then list all educational qualifications, and mention a thesis statement if relevant. This should be followed by lower school education. Part-time jobs are also relevant, not for the role but for the responsibilities held in that role. Finally end with hobbies and interests, and ensure that games is on that list. Other hobbies are also relevant to humanise candidates to studios. An achievement section, where feasible, is also beneficial, especially if this section includes game jams.
+
+Getting into Games: Networking and Events:
+Setup a profile on LinkedIn. Post regularly on LinkedIn and join likeminded groups that focus on games. Also join competitions that are open to game developers and designers, where the prize is a position at a games studio. C++ is usually the tested programming skill. For example, competitors will get a half-finished block of code which contestants need to complete, identify, debug then run on Unity or Unreal Engine. These competitions can be added to the portfolio.
+
