@@ -10,3 +10,6 @@ Artists need to be highly skilled in 2D and 3D software e.g. Photoshop, Illustra
 
 What studios look for in a code portfolio:
 First thing to do is to separate student projects from professional projects. Ensure that the portfolio has a completed game, a minimum requirement. A video play through of the game as a showreel is also essential. Having the game work across platforms demonstrates versatility. Have plenty of code samples on repositories like GitHub, and ensure that all documentation is well-written, easy to read, and properly structured. If participating in group projects, highlight / distinguish precisely which contributions are owned by which developer / coder. Have an online portfolio on a website and a blurb that links the demo video to the portfolio website.
+
+What studios look for in an artist’s portfolio:
+Have a portfolio website with proper layout — sections and folders should be properly organised. A clear breakdown of the concept, articulation, and management of the workflows used to create the art. Positions for artists are typically the most competitive and studios look for a unique style that is genuine and authentic to the artist’s vision.
