@@ -13,3 +13,6 @@ First thing to do is to separate student projects from professional projects. En
 
 What studios look for in an artist’s portfolio:
 Have a portfolio website with proper layout — sections and folders should be properly organised. A clear breakdown of the concept, articulation, and management of the workflows used to create the art. Positions for artists are typically the most competitive and studios look for a unique style that is genuine and authentic to the artist’s vision.
+
+What studios look for in an animator’s showreel:
+A showreel is essential. Captions are very important in these showreels. Pick comfortable music that does not overpower the scene or is misaligned with the intention of the message. If a character has been animated, studios want to know how. In the showreel, a common mantra is to start with the best work and end with the second-best work. For in-game animations, ensure the scene shows mastery of the basics — walk cycles, run cycles, attacks — as well as the ability to integrate with other games functions.
