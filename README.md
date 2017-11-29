@@ -48,9 +48,10 @@ Setup a profile on LinkedIn. Post regularly on LinkedIn and join likeminded grou
 • key success indicators<br/>
 
 <h3>Maslow's Hierarchy Management Considerations</h3>
-• turn Maslow’s hierarchy upside down for game interaction
-• USP - what is my unfair advantage? (e.g. theme park rollercoaster game: 1st person ride the ride technology
-• designing for the masses is an individualistic exercise because you have to create quality, which can never happen with design democracy.
+• turn Maslow’s hierarchy upside down for game interaction<br/>
+• USP - what is my unfair advantage? (e.g. theme park rollercoaster game: 1st person ride the ride technology<br/>
+• designing for the masses is an individualistic exercise because you have to create quality, which can never happen with design democracy.<br/>
 
 <h3>Real vs Realistic</h3>
 The most likely risk in a game is that people may not want to play it because the game is derivative, others already have a better alternative etc. Think about the real risks of building a computer game. Is a USP actually good enough to be a USB? Consider the mitigation for the risk. If my product does not entertain it does not fulfil its purpose.
+
