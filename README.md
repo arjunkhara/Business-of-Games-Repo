@@ -55,3 +55,40 @@ Setup a profile on LinkedIn. Post regularly on LinkedIn and join likeminded grou
 <h3>Real vs Realistic</h3>
 The most likely risk in a game is that people may not want to play it because the game is derivative, others already have a better alternative etc. Think about the real risks of building a computer game. Is a USP actually good enough to be a USB? Consider the mitigation for the risk. If my product does not entertain it does not fulfil its purpose.
 
+### Business Composition 2: Minimum Viable Product for ValleyVolley
+
+In writing the final business assignment (CW2) I am getting together a list of considerations that require further exploration. Because this project is real, not speculative, with a live website and fund-raising campaign strategy, the approach requires detailed analysis of the minimum viable product (MVP) for the Valley Volley game. I will also be considering the maximum visible perception to get potential customers to see, with as much clarity and reality, how the game works, and how the game works for themselves and their organisations.
+
+• LEAN (Product Focused and Market Focused)
+• Early Adopting Customer (this will be a header)
+• Save time by not building irrelevant stuff
+• Customer-centric development
+• Key success indicators (what will they be / what am I looking for)
+
+• What problem does VV solve? (because no one care how clever a solution is)
+• What delight does VV deliver?
+• What is the problem VV customers face in the first place? (where can we find these problems, e.g. on chat forums, Reddit, YouTube etc)
+
+• Where do you start? (controls — convince players to keep playing)
+• Reward mechanics (sub-heading)
+• What worked in the past / What no longer works in the present or the future?
+• Slick interactions (very important — talk about interactions between players)
+• Extrapolating trends in VV-like card games
+• Social aspect of ValleyVolley? (small and close-knit communities; international competitions; team-building)
+• The psychology of VV
+• The narrative of VV
+
+• Unfair advantage of VV
+• Pivot strategy for VV (NASA nausea: lagging frame rate for FPS games to train astronauts)
+• Extensibility of VV to digital media
+• VVTV: Watch disruption in real-time streaming
+
+• Know what IT is, before making too much of IT
+• Map your features to the customer (around the persona)
+• PFBI approach to VV
+• How to measure enjoyment?
+
+• The Star Trek Bridge personalities are perfect for team-building
+• IP done through registering the valleyvolley.com domain
+• Games and People decision-driven benefit company to mainstream disruptive thinking
+• Quantify disruption through idea (Volley) cards (the cards on which you write your solutions)
